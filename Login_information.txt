@@ -1,0 +1,11 @@
+Admin:
+username : elias
+password :123
+
+Student:
+username : john12
+password  : 123
+
+Teacher:
+username : oliver12
+password  : 123
