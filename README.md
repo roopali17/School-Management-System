@@ -1,1 +1,3 @@
 # School-Management-System
+The School Management System is a web-based application developed to simplify and organize the academic and administrative activities of a school. It allows efficient management of student and teacher records, class schedules, subjects, and timetables through a centralized platform. The system includes secure login access with different roles for admins, teachers, and students, ensuring appropriate access and functionality. Built using HTML, CSS, JavaScript, PHP, and MySQL, this project aims to reduce manual work, improve data accuracy, and enhance overall operational efficiency within an educational environment.
+
